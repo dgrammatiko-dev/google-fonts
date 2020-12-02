@@ -5,7 +5,7 @@ const {readFile, writeFile, stat} = require('fs').promises;
 
 const main = async () => {
   const result = dotenv.config()
-  const googleKey = result.googleKey || process.env.googleKey;
+  const googleKey = result.GOOGLEKEY || process.env.GOOGLEKEY;
   const file = 'docs/fonts.json'
   const url = `https://www.googleapis.com/webfonts/v1/webfonts?key=${googleKey}`
   const response = await axios({
