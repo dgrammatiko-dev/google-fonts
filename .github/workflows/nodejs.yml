@@ -1,0 +1,41 @@
+name: Node.js CI
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/60 * * * *'
+
+env:
+  CI: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14]
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install NPM dependencies
+      run: npm ci
+
+    - name: Process
+      run: npm run update
+
+    - name: Github
+      run: npm run github
+
+    - uses: stefanzweifel/git-auto-commit-action@v3.0.0
+      with:
+        commit_message: Merging data...
+        branch: ${{ github.head_ref }}
