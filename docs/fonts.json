@@ -190,6 +190,42 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "Akaya Kanadaka",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "kannada",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2021-02-18",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/akayakanadaka/v1/N0bM2S5CPO5oOQqvazoRRb-8-PfRS5VBBSSF.ttf"
+      },
+      "category": "display",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Akaya Telivigala",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext",
+        "telugu"
+      ],
+      "version": "v9",
+      "lastModified": "2021-02-18",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/akayatelivigala/v9/lJwc-oo_iG9wXqU3rCTD395tp0uifdLdsIH0YH8.ttf"
+      },
+      "category": "display",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Akronim",
       "variants": [
         "regular"
@@ -6139,6 +6175,25 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "DotGothic16",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "cyrillic",
+        "japanese",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2021-02-18",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/dotgothic16/v1/v6-QGYjBJFKgyw5nSoDAGE7L435YPFrT.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Dr Sugiyama",
       "variants": [
         "regular"
@@ -11798,10 +11853,10 @@
       "subsets": [
         "latin"
       ],
-      "version": "v10",
-      "lastModified": "2020-07-23",
+      "version": "v14",
+      "lastModified": "2021-02-18",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/librebarcode128/v10/cIfnMbdUsUoiW3O_hVviCwVjuLtXeJ_A_gMk0izH.ttf"
+        "regular": "http://fonts.gstatic.com/s/librebarcode128/v14/cIfnMbdUsUoiW3O_hVviCwVjuLtXeJ_A_gMk0izH.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont"
@@ -11814,10 +11869,10 @@
       "subsets": [
         "latin"
       ],
-      "version": "v10",
-      "lastModified": "2020-07-23",
+      "version": "v14",
+      "lastModified": "2021-02-18",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/librebarcode128text/v10/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5cV3Y6M90w4k.ttf"
+        "regular": "http://fonts.gstatic.com/s/librebarcode128text/v14/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5cV3Y6M90w4k.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont"
@@ -11830,10 +11885,10 @@
       "subsets": [
         "latin"
       ],
-      "version": "v10",
-      "lastModified": "2020-07-23",
+      "version": "v14",
+      "lastModified": "2021-02-18",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/librebarcode39/v10/-nFnOHM08vwC6h8Li1eQnP_AHzI2K_d709jy92k.ttf"
+        "regular": "http://fonts.gstatic.com/s/librebarcode39/v14/-nFnOHM08vwC6h8Li1eQnP_AHzI2K_d709jy92k.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont"
@@ -11846,10 +11901,10 @@
       "subsets": [
         "latin"
       ],
-      "version": "v9",
-      "lastModified": "2020-07-23",
+      "version": "v13",
+      "lastModified": "2021-02-18",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/librebarcode39extended/v9/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgfNRCOZ1GOBw.ttf"
+        "regular": "http://fonts.gstatic.com/s/librebarcode39extended/v13/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgfNRCOZ1GOBw.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont"
@@ -11862,10 +11917,10 @@
       "subsets": [
         "latin"
       ],
-      "version": "v9",
-      "lastModified": "2020-07-23",
+      "version": "v13",
+      "lastModified": "2021-02-18",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/librebarcode39extendedtext/v9/eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP68fLIiPopNNA.ttf"
+        "regular": "http://fonts.gstatic.com/s/librebarcode39extendedtext/v13/eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP68fLIiPopNNA.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont"
@@ -11878,10 +11933,10 @@
       "subsets": [
         "latin"
       ],
-      "version": "v10",
-      "lastModified": "2020-07-23",
+      "version": "v14",
+      "lastModified": "2021-02-18",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/librebarcode39text/v10/sJoa3KhViNKANw_E3LwoDXvs5Un0HQ1vT-031RRL-9rYaw.ttf"
+        "regular": "http://fonts.gstatic.com/s/librebarcode39text/v14/sJoa3KhViNKANw_E3LwoDXvs5Un0HQ1vT-031RRL-9rYaw.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont"
@@ -15400,6 +15455,25 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "Oi",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "greek",
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "version": "v1",
+      "lastModified": "2021-02-18",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/oi/v1/w8gXH2EuRqtaut6yjBOG.ttf"
+      },
+      "category": "display",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Old Standard TT",
       "variants": [
         "regular",
@@ -18242,6 +18316,25 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "RocknRoll One",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "cyrillic",
+        "japanese",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2021-02-18",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/rocknrollone/v1/kmK7ZqspGAfCeUiW6FFlmEC9guVhs7tfUxc.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Rokkitt",
       "variants": [
         "100",
@@ -19470,6 +19563,58 @@
       "kind": "webfonts#webfont"
     },
     {
+      "family": "Shippori Mincho",
+      "variants": [
+        "regular",
+        "500",
+        "600",
+        "700",
+        "800"
+      ],
+      "subsets": [
+        "japanese",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2021-02-18",
+      "files": {
+        "500": "http://fonts.gstatic.com/s/shipporimincho/v1/VdGDAZweH5EbgHY6YExcZfDoj0B4L9am5JEO5--2zg.ttf",
+        "600": "http://fonts.gstatic.com/s/shipporimincho/v1/VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm5JEO5--2zg.ttf",
+        "700": "http://fonts.gstatic.com/s/shipporimincho/v1/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm5JEO5--2zg.ttf",
+        "800": "http://fonts.gstatic.com/s/shipporimincho/v1/VdGDAZweH5EbgHY6YExcZfDoj0B4e9Om5JEO5--2zg.ttf",
+        "regular": "http://fonts.gstatic.com/s/shipporimincho/v1/VdGGAZweH5EbgHY6YExcZfDoj0BA2_-C7LoS7g.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Shippori Mincho B1",
+      "variants": [
+        "regular",
+        "500",
+        "600",
+        "700",
+        "800"
+      ],
+      "subsets": [
+        "japanese",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2021-02-18",
+      "files": {
+        "500": "http://fonts.gstatic.com/s/shipporiminchob1/v1/wXK1E2wCr44tulPdnn-xbIpJ9RgT9-nKeolP3nih5H4Uug.ttf",
+        "600": "http://fonts.gstatic.com/s/shipporiminchob1/v1/wXK1E2wCr44tulPdnn-xbIpJ9RgT9-nKVo5P3nih5H4Uug.ttf",
+        "700": "http://fonts.gstatic.com/s/shipporiminchob1/v1/wXK1E2wCr44tulPdnn-xbIpJ9RgT9-nKMo9P3nih5H4Uug.ttf",
+        "800": "http://fonts.gstatic.com/s/shipporiminchob1/v1/wXK1E2wCr44tulPdnn-xbIpJ9RgT9-nKLoxP3nih5H4Uug.ttf",
+        "regular": "http://fonts.gstatic.com/s/shipporiminchob1/v1/wXK2E2wCr44tulPdnn-xbIpJ9RgT9-nyjqBr1lO97Q.ttf"
+      },
+      "category": "serif",
+      "kind": "webfonts#webfont"
+    },
+    {
       "family": "Shojumaru",
       "variants": [
         "regular"
@@ -20499,6 +20644,25 @@
         "regular": "http://fonts.gstatic.com/s/stardosstencil/v11/X7n94bcuGPC8hrvEOHXOgaKCc2TR71R3tiSx0g.ttf"
       },
       "category": "display",
+      "kind": "webfonts#webfont"
+    },
+    {
+      "family": "Stick",
+      "variants": [
+        "regular"
+      ],
+      "subsets": [
+        "cyrillic",
+        "japanese",
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2021-02-18",
+      "files": {
+        "regular": "http://fonts.gstatic.com/s/stick/v1/Qw3TZQpMCyTtJSvfvPVDMPoF.ttf"
+      },
+      "category": "sans-serif",
       "kind": "webfonts#webfont"
     },
     {
