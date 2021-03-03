@@ -3190,14 +3190,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v6",
-      "lastModified": "2020-07-23",
+      "version": "v7",
+      "lastModified": "2021-03-03",
       "files": {
-        "200": "http://fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9LjbffxxcblSHSdTXrb_z.ttf",
-        "300": "http://fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bVSHSdTXrb_z.ttf",
-        "700": "http://fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9LjbffxwoalSHSdTXrb_z.ttf",
-        "800": "http://fonts.gstatic.com/s/biorhymeexpanded/v6/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aVSHSdTXrb_z.ttf",
-        "regular": "http://fonts.gstatic.com/s/biorhymeexpanded/v6/i7dQIE1zZzytGswgU577CDY9LjbffySURXCPYsje.ttf"
+        "200": "http://fonts.gstatic.com/s/biorhymeexpanded/v7/@ChYKEUJpb1JoeW1lIEV4cGFuZGVkGMgBIAAqBAgBGAE=.ttf",
+        "300": "http://fonts.gstatic.com/s/biorhymeexpanded/v7/@ChYKEUJpb1JoeW1lIEV4cGFuZGVkGKwCIAAqBAgBGAE=.ttf",
+        "700": "http://fonts.gstatic.com/s/biorhymeexpanded/v7/@ChYKEUJpb1JoeW1lIEV4cGFuZGVkGLwFIAAqBAgBGAE=.ttf",
+        "800": "http://fonts.gstatic.com/s/biorhymeexpanded/v7/@ChYKEUJpb1JoeW1lIEV4cGFuZGVkGKAGIAAqBAgBGAE=.ttf",
+        "regular": "http://fonts.gstatic.com/s/biorhymeexpanded/v7/@ChMKEUJpb1JoeW1lIEV4cGFuZGVkIAAqBAgBGAE=.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
