@@ -5935,10 +5935,10 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v1",
-      "lastModified": "2021-03-22",
+      "version": "v4",
+      "lastModified": "2021-04-20",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/delagothicone/v1/hESp6XxvMDRA-2eD0lXpDa6QkBAGRUsJQAlbUA.ttf"
+        "regular": "http://fonts.gstatic.com/s/delagothicone/v4/hESp6XxvMDRA-2eD0lXpDa6QkBAGRUsJQAlbUA.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont"
@@ -11101,12 +11101,12 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v1",
-      "lastModified": "2021-03-22",
+      "version": "v4",
+      "lastModified": "2021-04-20",
       "files": {
-        "300": "http://fonts.gstatic.com/s/kiwimaru/v1/R70djykGkuuDep-hRg6gNCi0Vxn9R5ShnA.ttf",
-        "500": "http://fonts.gstatic.com/s/kiwimaru/v1/R70djykGkuuDep-hRg6gbCm0Vxn9R5ShnA.ttf",
-        "regular": "http://fonts.gstatic.com/s/kiwimaru/v1/R70YjykGkuuDep-hRg6YmACQXzLhTg.ttf"
+        "300": "http://fonts.gstatic.com/s/kiwimaru/v4/R70djykGkuuDep-hRg6gNCi0Vxn9R5ShnA.ttf",
+        "500": "http://fonts.gstatic.com/s/kiwimaru/v4/R70djykGkuuDep-hRg6gbCm0Vxn9R5ShnA.ttf",
+        "regular": "http://fonts.gstatic.com/s/kiwimaru/v4/R70YjykGkuuDep-hRg6YmACQXzLhTg.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -11858,16 +11858,16 @@
         "latin-ext",
         "vietnamese"
       ],
-      "version": "v2",
-      "lastModified": "2021-03-22",
+      "version": "v5",
+      "lastModified": "2021-04-20",
       "files": {
-        "100": "http://fonts.gstatic.com/s/lexend/v2/wlpygwvFAVdoq2_nmKQR82JHaTBX.ttf",
-        "300": "http://fonts.gstatic.com/s/lexend/v2/wlpzgwvFAVdoq2_nUIYx2UxLYClOCg.ttf",
-        "500": "http://fonts.gstatic.com/s/lexend/v2/wlpzgwvFAVdoq2_nCIcx2UxLYClOCg.ttf",
-        "600": "http://fonts.gstatic.com/s/lexend/v2/wlpzgwvFAVdoq2_nJIAx2UxLYClOCg.ttf",
-        "700": "http://fonts.gstatic.com/s/lexend/v2/wlpzgwvFAVdoq2_nQIEx2UxLYClOCg.ttf",
-        "800": "http://fonts.gstatic.com/s/lexend/v2/wlpzgwvFAVdoq2_nXIIx2UxLYClOCg.ttf",
-        "regular": "http://fonts.gstatic.com/s/lexend/v2/wlpwgwvFAVdoq2_f_K4V0WdXaQ.ttf"
+        "100": "http://fonts.gstatic.com/s/lexend/v5/wlpygwvFAVdoq2_nmKQR82JHaTBX.ttf",
+        "300": "http://fonts.gstatic.com/s/lexend/v5/wlpzgwvFAVdoq2_nUIYx2UxLYClOCg.ttf",
+        "500": "http://fonts.gstatic.com/s/lexend/v5/wlpzgwvFAVdoq2_nCIcx2UxLYClOCg.ttf",
+        "600": "http://fonts.gstatic.com/s/lexend/v5/wlpzgwvFAVdoq2_nJIAx2UxLYClOCg.ttf",
+        "700": "http://fonts.gstatic.com/s/lexend/v5/wlpzgwvFAVdoq2_nQIEx2UxLYClOCg.ttf",
+        "800": "http://fonts.gstatic.com/s/lexend/v5/wlpzgwvFAVdoq2_nXIIx2UxLYClOCg.ttf",
+        "regular": "http://fonts.gstatic.com/s/lexend/v5/wlpwgwvFAVdoq2_f_K4V0WdXaQ.ttf"
       },
       "category": "sans-serif",
       "kind": "webfonts#webfont"
@@ -14756,10 +14756,10 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v1",
-      "lastModified": "2021-03-22",
+      "version": "v5",
+      "lastModified": "2021-04-20",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/newtegomin/v1/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
+        "regular": "http://fonts.gstatic.com/s/newtegomin/v5/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -21779,10 +21779,10 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v1",
-      "lastModified": "2021-03-22",
+      "version": "v4",
+      "lastModified": "2021-04-20",
       "files": {
-        "regular": "http://fonts.gstatic.com/s/trainone/v1/gyB-hwkiNtc6KnxUVjWHOqbZRY7JVQ.ttf"
+        "regular": "http://fonts.gstatic.com/s/trainone/v4/gyB-hwkiNtc6KnxUVjWHOqbZRY7JVQ.ttf"
       },
       "category": "display",
       "kind": "webfonts#webfont"
