@@ -19768,14 +19768,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v4",
-      "lastModified": "2021-03-24",
+      "version": "v5",
+      "lastModified": "2021-06-15",
       "files": {
-        "500": "http://fonts.gstatic.com/s/shipporimincho/v4/VdGDAZweH5EbgHY6YExcZfDoj0B4L9am5JEO5--2zg.ttf",
-        "600": "http://fonts.gstatic.com/s/shipporimincho/v4/VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm5JEO5--2zg.ttf",
-        "700": "http://fonts.gstatic.com/s/shipporimincho/v4/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm5JEO5--2zg.ttf",
-        "800": "http://fonts.gstatic.com/s/shipporimincho/v4/VdGDAZweH5EbgHY6YExcZfDoj0B4e9Om5JEO5--2zg.ttf",
-        "regular": "http://fonts.gstatic.com/s/shipporimincho/v4/VdGGAZweH5EbgHY6YExcZfDoj0BA2_-C7LoS7g.ttf"
+        "500": "http://fonts.gstatic.com/s/shipporimincho/v5/VdGDAZweH5EbgHY6YExcZfDoj0B4L9am5JEO5--2zg.ttf",
+        "600": "http://fonts.gstatic.com/s/shipporimincho/v5/VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm5JEO5--2zg.ttf",
+        "700": "http://fonts.gstatic.com/s/shipporimincho/v5/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm5JEO5--2zg.ttf",
+        "800": "http://fonts.gstatic.com/s/shipporimincho/v5/VdGDAZweH5EbgHY6YExcZfDoj0B4e9Om5JEO5--2zg.ttf",
+        "regular": "http://fonts.gstatic.com/s/shipporimincho/v5/VdGGAZweH5EbgHY6YExcZfDoj0BA2_-C7LoS7g.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
@@ -19794,14 +19794,14 @@
         "latin",
         "latin-ext"
       ],
-      "version": "v4",
-      "lastModified": "2021-03-24",
+      "version": "v8",
+      "lastModified": "2021-06-15",
       "files": {
-        "500": "http://fonts.gstatic.com/s/shipporiminchob1/v4/wXK1E2wCr44tulPdnn-xbIpJ9RgT9-nKeolP3nih5H4Uug.ttf",
-        "600": "http://fonts.gstatic.com/s/shipporiminchob1/v4/wXK1E2wCr44tulPdnn-xbIpJ9RgT9-nKVo5P3nih5H4Uug.ttf",
-        "700": "http://fonts.gstatic.com/s/shipporiminchob1/v4/wXK1E2wCr44tulPdnn-xbIpJ9RgT9-nKMo9P3nih5H4Uug.ttf",
-        "800": "http://fonts.gstatic.com/s/shipporiminchob1/v4/wXK1E2wCr44tulPdnn-xbIpJ9RgT9-nKLoxP3nih5H4Uug.ttf",
-        "regular": "http://fonts.gstatic.com/s/shipporiminchob1/v4/wXK2E2wCr44tulPdnn-xbIpJ9RgT9-nyjqBr1lO97Q.ttf"
+        "500": "http://fonts.gstatic.com/s/shipporiminchob1/v8/~ChcKElNoaXBwb3JpIE1pbmNobyBCMRj0AyAAKgQIARgB.ttf",
+        "600": "http://fonts.gstatic.com/s/shipporiminchob1/v8/~ChcKElNoaXBwb3JpIE1pbmNobyBCMRjYBCAAKgQIARgB.ttf",
+        "700": "http://fonts.gstatic.com/s/shipporiminchob1/v8/~ChcKElNoaXBwb3JpIE1pbmNobyBCMRi8BSAAKgQIARgB.ttf",
+        "800": "http://fonts.gstatic.com/s/shipporiminchob1/v8/~ChcKElNoaXBwb3JpIE1pbmNobyBCMRigBiAAKgQIARgB.ttf",
+        "regular": "http://fonts.gstatic.com/s/shipporiminchob1/v8/~ChQKElNoaXBwb3JpIE1pbmNobyBCMSAAKgQIARgB.ttf"
       },
       "category": "serif",
       "kind": "webfonts#webfont"
